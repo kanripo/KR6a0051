@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 梵志計水淨經
+#+DATE: 2015-08-30 19:29:46.438850
+#+PROPERTY: JUAN 0
